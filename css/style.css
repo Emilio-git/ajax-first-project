@@ -1,0 +1,23 @@
+.wrapper {
+   text-align: center;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   font-weight: 600;
+   margin-top: 50px;
+}
+
+h1{
+   line-height: 1em;
+}
+
+.descr{
+   font-weight: 500;
+   color: lightslategrey;
+   font-size: 12px;
+}
+
+input {
+   border-radius: 5px;
+   border: 1px solid lightslategrey;
+   font-size: 15px;
+   padding: 10px;
+}
