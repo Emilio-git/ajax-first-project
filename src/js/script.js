@@ -1,3 +1,5 @@
+'use sctict';
+
 document.addEventListener('DOMContentLoaded', () => {
    const inputRub = document.querySelector('#rub'),
          inputUsd = document.querySelector('#usd');
